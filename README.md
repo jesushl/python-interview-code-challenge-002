@@ -16,6 +16,7 @@ Assess your skills and knowledge on the python language
 - Fork this repository when you start.
 - Create a Pull Request labeled as **WIP:<Your Name> - Python Challenge 002** as soon as you start (it can be an empty Pull Request, as in, no commits are needed)
 - Create a commit for each step solved (so, 4 commits total)
+- You can use any library or framework available, or no library or framework at all, it's your call
 - Have fun
   
 ## The Assessment
